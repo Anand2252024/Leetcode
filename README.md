@@ -89,6 +89,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Anand2252024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Anand2252024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
