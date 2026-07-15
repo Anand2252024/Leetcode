@@ -133,4 +133,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Anand2252024/Leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
