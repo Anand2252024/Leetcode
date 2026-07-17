@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand2252024/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Anand2252024/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Anand2252024/Leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Anand2252024/Leetcode/tree/master/0585-investments-in-2016) |
 ## Combinatorics
 |  |
 | ------- |
