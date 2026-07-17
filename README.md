@@ -149,6 +149,7 @@ Happy Coding! 🚀
 | [0585-investments-in-2016](https://github.com/Anand2252024/Leetcode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Anand2252024/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Anand2252024/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Anand2252024/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Combinatorics
 |  |
 | ------- |
