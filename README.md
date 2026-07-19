@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anand2252024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -192,4 +194,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
