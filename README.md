@@ -110,6 +110,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
@@ -231,4 +233,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
