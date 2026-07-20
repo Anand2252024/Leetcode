@@ -84,6 +84,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anand2252024/Leetcode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
