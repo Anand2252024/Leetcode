@@ -243,6 +243,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Anand2252024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anand2252024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anand2252024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Memoization
 |  |
