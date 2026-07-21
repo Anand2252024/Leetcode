@@ -243,4 +243,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Anand2252024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
