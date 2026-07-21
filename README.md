@@ -85,6 +85,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anand2252024/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
@@ -247,4 +249,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anand2252024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
