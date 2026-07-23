@@ -260,4 +260,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Anand2252024/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
