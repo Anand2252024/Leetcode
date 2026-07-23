@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Anand2252024/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/Anand2252024/Leetcode/tree/master/0051-n-queens) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -266,4 +267,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Anand2252024/Leetcode/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anand2252024/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
