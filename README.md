@@ -85,6 +85,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anand2252024/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -247,6 +248,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Anand2252024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
 ## Sliding Window
 |  |
 | ------- |
