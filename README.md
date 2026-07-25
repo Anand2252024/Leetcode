@@ -142,6 +142,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -159,6 +160,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/Anand2252024/Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -282,4 +284,5 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/Anand2252024/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Anand2252024/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Anand2252024/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
