@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anand2252024/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
@@ -210,6 +212,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anand2252024/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -219,6 +222,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anand2252024/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +262,7 @@ Happy Coding! 🚀
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
