@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anand2252024/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Anand2252024/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
