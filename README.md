@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/Anand2252024/Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -249,6 +251,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -285,4 +288,9 @@ Happy Coding! 🚀
 | [0052-n-queens-ii](https://github.com/Anand2252024/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Anand2252024/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
