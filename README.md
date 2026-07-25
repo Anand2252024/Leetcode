@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -293,4 +294,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
