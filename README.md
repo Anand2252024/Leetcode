@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Anand2252024/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Anand2252024/Leetcode/tree/master/0089-gray-code) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
@@ -146,6 +147,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Anand2252024/Leetcode/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -304,6 +306,7 @@ Happy Coding! 🚀
 | [0077-combinations](https://github.com/Anand2252024/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anand2252024/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Anand2252024/Leetcode/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
 | ------- |
