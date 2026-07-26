@@ -316,9 +316,22 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Anand2252024/Leetcode/tree/master/0100-same-tree) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anand2252024/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anand2252024/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anand2252024/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anand2252024/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
