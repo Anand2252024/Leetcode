@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Anand2252024/Leetcode/tree/master/0091-decode-ways) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Anand2252024/Leetcode/tree/master/0091-decode-ways) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
