@@ -227,6 +227,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anand2252024/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -304,6 +305,7 @@ Happy Coding! 🚀
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anand2252024/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anand2252024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -334,6 +336,7 @@ Happy Coding! 🚀
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anand2252024/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anand2252024/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Happy Coding! 🚀
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anand2252024/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anand2252024/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +386,7 @@ Happy Coding! 🚀
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anand2252024/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anand2252024/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
