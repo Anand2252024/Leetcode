@@ -184,6 +184,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Anand2252024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Anand2252024/Leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/Anand2252024/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Anand2252024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Anand2252024/Leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
