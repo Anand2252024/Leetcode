@@ -131,6 +131,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anand2252024/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anand2252024/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anand2252024/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -401,4 +403,8 @@ Happy Coding! 🚀
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anand2252024/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
