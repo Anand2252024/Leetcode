@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Anand2252024/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Anand2252024/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -365,6 +366,7 @@ Happy Coding! 🚀
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anand2252024/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
 | ------- |
