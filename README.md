@@ -204,6 +204,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Anand2252024/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anand2252024/Leetcode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -270,6 +271,7 @@ Happy Coding! 🚀
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anand2252024/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anand2252024/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Anand2252024/Leetcode/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
