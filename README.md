@@ -199,6 +199,7 @@ Happy Coding! 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anand2252024/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anand2252024/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -312,6 +313,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -374,6 +376,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anand2252024/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anand2252024/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -416,6 +419,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anand2252024/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anand2252024/Leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -450,4 +454,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
