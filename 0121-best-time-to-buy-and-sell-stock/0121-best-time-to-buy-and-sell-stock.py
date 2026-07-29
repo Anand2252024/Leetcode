@@ -6,11 +6,8 @@ class Solution:
         max_profit = 0
         
         for price in prices:
-            # update minimum price
             if price < min_price:
                 min_price = price
-            # check profit if sold today
             elif price - min_price > max_profit:
-                max_profit = price - min_price
-        
+                max_profit = price - min_price       
         return max_profit
