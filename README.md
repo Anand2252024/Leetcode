@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anand2252024/Leetcode/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/Anand2252024/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anand2252024/Leetcode/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -409,6 +411,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anand2252024/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anand2252024/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Anand2252024/Leetcode/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
