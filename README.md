@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/Anand2252024/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anand2252024/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -141,6 +142,7 @@ Happy Coding! 🚀
 | [0131-palindrome-partitioning](https://github.com/Anand2252024/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anand2252024/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -215,6 +217,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Anand2252024/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +244,7 @@ Happy Coding! 🚀
 | [0131-palindrome-partitioning](https://github.com/Anand2252024/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anand2252024/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Database
 |  |
@@ -367,6 +371,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -384,6 +389,7 @@ Happy Coding! 🚀
 | [0113-path-sum-ii](https://github.com/Anand2252024/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Anand2252024/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -489,4 +495,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
