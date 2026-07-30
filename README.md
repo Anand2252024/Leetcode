@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -368,6 +369,7 @@ Happy Coding! 🚀
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anand2252024/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anand2252024/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -417,6 +419,7 @@ Happy Coding! 🚀
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anand2252024/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Tree
 |  |
 | ------- |
