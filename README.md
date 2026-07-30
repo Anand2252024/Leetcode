@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anand2252024/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anand2252024/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anand2252024/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -273,6 +275,7 @@ Happy Coding! 🚀
 | [0134-gas-station](https://github.com/Anand2252024/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anand2252024/Leetcode/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
