@@ -282,6 +282,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/Anand2252024/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anand2252024/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -352,6 +353,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Anand2252024/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Anand2252024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Happy Coding! 🚀
 | [0138-copy-list-with-random-pointer](https://github.com/Anand2252024/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 ## Memoization
 |  |
 | ------- |
@@ -420,6 +423,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
