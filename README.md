@@ -257,6 +257,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anand2252024/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Anand2252024/Leetcode/tree/master/0176-second-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Anand2252024/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Anand2252024/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anand2252024/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
