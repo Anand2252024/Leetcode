@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anand2252024/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anand2252024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
@@ -229,6 +230,7 @@ Happy Coding! 🚀
 | [0137-single-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
@@ -298,6 +300,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -387,6 +390,7 @@ Happy Coding! 🚀
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
