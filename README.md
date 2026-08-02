@@ -456,6 +456,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -507,6 +508,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/Anand2252024/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -550,6 +552,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/Anand2252024/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 ## Trie
 |  |
 | ------- |
@@ -585,4 +588,5 @@ Happy Coding! 🚀
 | ------- |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
