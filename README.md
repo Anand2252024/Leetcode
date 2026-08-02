@@ -462,6 +462,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Two Pointers
 |  |
 | ------- |
@@ -515,6 +516,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Tree
 |  |
 | ------- |
@@ -560,6 +562,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Trie
 |  |
 | ------- |
@@ -597,4 +600,5 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
