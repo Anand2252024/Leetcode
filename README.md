@@ -131,6 +131,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anand2252024/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -199,6 +201,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anand2252024/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -244,6 +247,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/Anand2252024/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Anand2252024/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand2252024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -368,6 +372,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -629,4 +634,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anand2252024/Leetcode/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
