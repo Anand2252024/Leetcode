@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -246,6 +247,7 @@ Happy Coding! 🚀
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -273,6 +275,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |
@@ -589,6 +592,7 @@ Happy Coding! 🚀
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 ## Concurrency
 |  |
 | ------- |
