@@ -248,6 +248,7 @@ Happy Coding! 🚀
 | [0164-maximum-gap](https://github.com/Anand2252024/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand2252024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -281,6 +282,7 @@ Happy Coding! 🚀
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anand2252024/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
@@ -399,6 +401,7 @@ Happy Coding! 🚀
 | [0079-word-search](https://github.com/Anand2252024/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
