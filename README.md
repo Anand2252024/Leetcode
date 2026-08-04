@@ -723,4 +723,12 @@ Happy Coding! 🚀
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Anand2252024/Leetcode/tree/master/0327-count-of-range-sum) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
