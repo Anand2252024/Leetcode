@@ -1,25 +1,29 @@
-class Solution:
-    def superPow(self, a: int, b: List[int]) -> int:
+class Solution(object):
+    def superPow(self, a, b):
+        """
+        :type a: int
+        :type b: List[int]
+        :rtype: int
+        """
         MOD = 1337
-        
-        # Fast modular exponentiation
+
         def mod_pow(x, n):
-            result = 1
+            # fast exponentiation
+            res = 1
             x %= MOD
-            while n > 0:
-                if n % 2 == 1:
-                    result = (result * x) % MOD
+            while n:
+                if n & 1:
+                    res = (res * x) % MOD
                 x = (x * x) % MOD
-                n //= 2
-            return result
-        
-        def helper(b_digits):
-            if not b_digits:
+                n >>= 1
+            return res
+
+        def helper(b):
+            if not b:
                 return 1
-            last = b_digits.pop()
-            # Compute recursively: a^last * (a^(remaining))^10
-            part1 = mod_pow(a, last)
-            part2 = mod_pow(helper(b_digits), 10)
+            last = b.pop()
+            part1 = mod_pow(helper(b), 10)
+            part2 = mod_pow(a, last)
             return (part1 * part2) % MOD
-        
-        return helper(b[:])
+
+        return helper(b)
