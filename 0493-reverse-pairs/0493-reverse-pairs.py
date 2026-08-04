@@ -1,37 +1,21 @@
-class Solution:
-    def reversePairs(self, nums: List[int]) -> int:
-        def merge_sort(start, end):
-            if start >= end:
+class Solution(object):
+    def reversePairs(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        def merge_sort(lo, hi):
+            if hi - lo <= 1:
                 return 0
-            
-            mid = (start + end) // 2
-            count = merge_sort(start, mid) + merge_sort(mid + 1, end)
-            
-            # Count reverse pairs
-            j = mid + 1
-            for i in range(start, mid + 1):
-                while j <= end and nums[i] > 2 * nums[j]:
+            mid = (lo + hi) // 2
+            count = merge_sort(lo, mid) + merge_sort(mid, hi)
+            j = mid
+            for i in range(lo, mid):
+                while j < hi and nums[i] > 2 * nums[j]:
                     j += 1
-                count += j - (mid + 1)
-            
-            # Merge step
-            temp = []
-            i, j = start, mid + 1
-            while i <= mid and j <= end:
-                if nums[i] <= nums[j]:
-                    temp.append(nums[i])
-                    i += 1
-                else:
-                    temp.append(nums[j])
-                    j += 1
-            while i <= mid:
-                temp.append(nums[i])
-                i += 1
-            while j <= end:
-                temp.append(nums[j])
-                j += 1
-            
-            nums[start:end+1] = temp
+                count += j - mid
+            # merge step
+            nums[lo:hi] = sorted(nums[lo:hi])
             return count
-        
-        return merge_sort(0, len(nums) - 1)
+
+        return merge_sort(0, len(nums))
