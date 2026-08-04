@@ -198,6 +198,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/Anand2252024/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Anand2252024/Leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -388,6 +389,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Anand2252024/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Anand2252024/Leetcode/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
