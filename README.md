@@ -554,6 +554,7 @@ Happy Coding! 🚀
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/Anand2252024/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
@@ -611,6 +612,7 @@ Happy Coding! 🚀
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/Anand2252024/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -657,6 +659,7 @@ Happy Coding! 🚀
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/Anand2252024/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
