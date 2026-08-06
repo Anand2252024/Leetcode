@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Anand2252024/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anand2252024/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -238,6 +240,7 @@ Happy Coding! 🚀
 | [0179-largest-number](https://github.com/Anand2252024/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Anand2252024/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Anand2252024/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
