@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [0214-shortest-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -338,6 +340,7 @@ Happy Coding! 🚀
 | [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anand2252024/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anand2252024/Leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
@@ -506,6 +509,7 @@ Happy Coding! 🚀
 | [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
@@ -535,6 +539,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Anand2252024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Anand2252024/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Enumeration
 |  |
@@ -806,4 +811,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anand2252024/Leetcode/tree/master/0214-shortest-palindrome) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
