@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Anand2252024/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Anand2252024/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -577,6 +578,7 @@ Happy Coding! 🚀
 | [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Anand2252024/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -661,6 +663,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/Anand2252024/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Anand2252024/Leetcode/tree/master/0802-find-eventual-safe-states) |
