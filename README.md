@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Anand2252024/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anand2252024/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anand2252024/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -286,6 +287,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anand2252024/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Anand2252024/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -481,6 +483,7 @@ Happy Coding! 🚀
 | [0085-maximal-rectangle](https://github.com/Anand2252024/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Anand2252024/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -544,6 +547,7 @@ Happy Coding! 🚀
 | [0126-word-ladder-ii](https://github.com/Anand2252024/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Anand2252024/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -684,6 +688,7 @@ Happy Coding! 🚀
 | [0140-word-break-ii](https://github.com/Anand2252024/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anand2252024/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anand2252024/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 ## Design
 |  |
 | ------- |
