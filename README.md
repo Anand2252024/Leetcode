@@ -205,6 +205,7 @@ Happy Coding! 🚀
 | [0306-additive-number](https://github.com/Anand2252024/Leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Anand2252024/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/Anand2252024/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -423,6 +424,7 @@ Happy Coding! 🚀
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Anand2252024/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -660,6 +662,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Anand2252024/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -708,6 +711,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anand2252024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Anand2252024/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Anand2252024/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
