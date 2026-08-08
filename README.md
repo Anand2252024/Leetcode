@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Anand2252024/Leetcode/tree/master/0372-super-pow) |
@@ -882,4 +883,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Anand2252024/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
