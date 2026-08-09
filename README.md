@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Anand2252024/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anand2252024/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Anand2252024/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anand2252024/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anand2252024/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Anand2252024/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -332,6 +333,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anand2252024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Anand2252024/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Anand2252024/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Anand2252024/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -566,6 +568,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anand2252024/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Anand2252024/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
