@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
@@ -128,6 +129,7 @@ Happy Coding! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand2252024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Anand2252024/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -162,6 +164,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/Anand2252024/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Anand2252024/Leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Anand2252024/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0336-palindrome-pairs) |
@@ -263,6 +266,7 @@ Happy Coding! 🚀
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Anand2252024/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anand2252024/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -277,6 +281,7 @@ Happy Coding! 🚀
 | [0218-the-skyline-problem](https://github.com/Anand2252024/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/Anand2252024/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Anand2252024/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Anand2252024/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -341,6 +346,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Anand2252024/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anand2252024/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Anand2252024/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
