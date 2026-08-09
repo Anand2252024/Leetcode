@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Anand2252024/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Anand2252024/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 | [0299-bulls-and-cows](https://github.com/Anand2252024/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anand2252024/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
@@ -285,6 +287,7 @@ Happy Coding! 🚀
 | [0324-wiggle-sort-ii](https://github.com/Anand2252024/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Anand2252024/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -356,6 +359,7 @@ Happy Coding! 🚀
 | [0332-reconstruct-itinerary](https://github.com/Anand2252024/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0493-reverse-pairs) |
@@ -679,6 +683,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anand2252024/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
