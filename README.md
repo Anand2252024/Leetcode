@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Anand2252024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anand2252024/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anand2252024/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anand2252024/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -576,6 +577,7 @@ Happy Coding! 🚀
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Anand2252024/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anand2252024/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Memoization
 |  |
 | ------- |
@@ -648,6 +650,7 @@ Happy Coding! 🚀
 | [0142-linked-list-cycle-ii](https://github.com/Anand2252024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anand2252024/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand2252024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
