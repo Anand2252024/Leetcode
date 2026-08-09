@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/Anand2252024/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anand2252024/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0166-fraction-to-recurring-decimal](https://github.com/Anand2252024/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Anand2252024/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Anand2252024/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Anand2252024/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anand2252024/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Anand2252024/Leetcode/tree/master/0242-valid-anagram) |
@@ -654,6 +656,7 @@ Happy Coding! 🚀
 | [0165-compare-version-numbers](https://github.com/Anand2252024/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anand2252024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anand2252024/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Tree
@@ -903,4 +906,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
