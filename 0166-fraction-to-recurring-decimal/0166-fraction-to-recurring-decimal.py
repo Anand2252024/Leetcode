@@ -1,10 +1,5 @@
-class Solution(object):
-    def fractionToDecimal(self, numerator, denominator):
-        """
-        :type numerator: int
-        :type denominator: int
-        :rtype: str
-        """
+class Solution:
+    def fractionToDecimal(self, numerator: int, denominator: int) -> str:
         if numerator == 0:
             return "0"
         
@@ -26,14 +21,15 @@ class Solution(object):
         res.append(".")
         
         # Fractional part
-        seen = {}
+        remainder_map = {}
         while remainder != 0:
-            if remainder in seen:
-                res.insert(seen[remainder], "(")
+            if remainder in remainder_map:
+                idx = remainder_map[remainder]
+                res.insert(idx, "(")
                 res.append(")")
                 break
             
-            seen[remainder] = len(res)
+            remainder_map[remainder] = len(res)
             remainder *= 10
             res.append(str(remainder // denominator))
             remainder %= denominator
