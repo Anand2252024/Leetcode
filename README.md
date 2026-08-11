@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anand2252024/Leetcode/tree/master/1510-stone-game-iv) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anand2252024/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand2252024/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -379,6 +380,7 @@ Happy Coding! 🚀
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anand2252024/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2252024/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -453,6 +455,7 @@ Happy Coding! 🚀
 | ------- |
 | [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Anand2252024/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anand2252024/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -979,9 +982,11 @@ Happy Coding! 🚀
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anand2252024/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anand2252024/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
