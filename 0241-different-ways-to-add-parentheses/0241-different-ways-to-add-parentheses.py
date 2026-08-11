@@ -1,33 +1,30 @@
-class Solution(object):
-    def diffWaysToCompute(self, expression):
-        """
-        :type expression: str
-        :rtype: List[int]
-        """
-        memo = {}
-        
-        def helper(expr):
-            if expr in memo:
-                return memo[expr]
-            
-            results = []
-            for i, ch in enumerate(expr):
+from typing import List
+from functools import lru_cache
+
+class Solution:
+    def diffWaysToCompute(self, expression: str) -> List[int]:
+
+        @lru_cache(None)
+        def solve(exp):
+            res = []
+
+            for i, ch in enumerate(exp):
                 if ch in "+-*":
-                    left = helper(expr[:i])
-                    right = helper(expr[i+1:])
+                    left = solve(exp[:i])
+                    right = solve(exp[i + 1:])
+
                     for l in left:
                         for r in right:
-                            if ch == '+':
-                                results.append(l + r)
-                            elif ch == '-':
-                                results.append(l - r)
-                            else:  # '*'
-                                results.append(l * r)
-            
-            if not results:  # expr is a number
-                results = [int(expr)]
-            
-            memo[expr] = results
-            return results
-        
-        return helper(expression)
+                            if ch == "+":
+                                res.append(l + r)
+                            elif ch == "-":
+                                res.append(l - r)
+                            else:
+                                res.append(l * r)
+
+            if not res:
+                res.append(int(exp))
+
+            return res
+
+        return solve(expression)
