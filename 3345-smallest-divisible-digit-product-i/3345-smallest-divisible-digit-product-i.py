@@ -1,11 +1,6 @@
-class Solution(object):
-    def smallestNumber(self, n, t):
-        """
-        :type n: int
-        :type t: int
-        :rtype: int
-        """
-        def digit_product(x):
+class Solution:
+    def smallestNumber(self, n: int, t: int) -> int:
+        def digit_product(x: int) -> int:
             prod = 1
             for ch in str(x):
                 prod *= int(ch)
