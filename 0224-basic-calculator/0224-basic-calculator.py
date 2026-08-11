@@ -1,39 +1,26 @@
-class Solution(object):
-    def calculate(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def calculate(self, s: str) -> int:
         stack = []
         result = 0
+        num = 0
         sign = 1
-        i = 0
         
-        while i < len(s):
-            ch = s[i]
-            
+        for ch in s:
             if ch.isdigit():
-                num = 0
-                while i < len(s) and s[i].isdigit():
-                    num = num * 10 + int(s[i])
-                    i += 1
+                num = num * 10 + int(ch)
+            elif ch in ['+', '-']:
                 result += sign * num
-                continue  # skip i increment here
-            
-            elif ch == '+':
-                sign = 1
-            elif ch == '-':
-                sign = -1
+                num = 0
+                sign = 1 if ch == '+' else -1
             elif ch == '(':
                 stack.append(result)
                 stack.append(sign)
                 result = 0
                 sign = 1
             elif ch == ')':
-                prev_sign = stack.pop()
-                prev_result = stack.pop()
-                result = prev_result + prev_sign * result
-            
-            i += 1
+                result += sign * num
+                num = 0
+                result *= stack.pop()  # sign before '('
+                result += stack.pop()  # result before '('
         
-        return result
+        return result + sign * num
