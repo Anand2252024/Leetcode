@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/Anand2252024/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -344,6 +345,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anand2252024/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Anand2252024/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anand2252024/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Anand2252024/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -445,6 +447,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -620,6 +623,7 @@ Happy Coding! 🚀
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Anand2252024/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand2252024/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
@@ -952,4 +956,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anand2252024/Leetcode/tree/master/1510-stone-game-iv) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
