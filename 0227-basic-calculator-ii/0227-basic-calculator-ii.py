@@ -1,29 +1,25 @@
-class Solution(object):
-    def calculate(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def calculate(self, s: str) -> int:
         s = s.replace(" ", "")
         stack = []
         num = 0
-        op = '+'
+        sign = '+'
         
         for i, ch in enumerate(s):
             if ch.isdigit():
                 num = num * 10 + int(ch)
             if not ch.isdigit() or i == len(s) - 1:
-                if op == '+':
+                if sign == '+':
                     stack.append(num)
-                elif op == '-':
+                elif sign == '-':
                     stack.append(-num)
-                elif op == '*':
+                elif sign == '*':
                     stack.append(stack.pop() * num)
-                elif op == '/':
+                elif sign == '/':
                     prev = stack.pop()
-                    # truncate toward zero
-                    stack.append(int(prev / float(num)))
-                op = ch
+                    # Truncate toward zero
+                    stack.append(int(prev / num))
+                sign = ch
                 num = 0
         
         return sum(stack)
