@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Anand2252024/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anand2252024/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Anand2252024/Leetcode/tree/master/0365-water-and-jug-problem) |
@@ -280,6 +281,7 @@ Happy Coding! 🚀
 | [0191-number-of-1-bits](https://github.com/Anand2252024/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/Anand2252024/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -602,6 +604,7 @@ Happy Coding! 🚀
 | [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Anand2252024/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
