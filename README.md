@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Anand2252024/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Anand2252024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -413,6 +414,7 @@ Happy Coding! 🚀
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Anand2252024/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
@@ -656,6 +658,7 @@ Happy Coding! 🚀
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Anand2252024/Leetcode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
