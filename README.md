@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Anand2252024/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -451,6 +452,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Anand2252024/Leetcode/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anand2252024/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -579,6 +581,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anand2252024/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
