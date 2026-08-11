@@ -94,6 +94,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/Anand2252024/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Anand2252024/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Anand2252024/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -888,6 +889,7 @@ Happy Coding! 🚀
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Anand2252024/Leetcode/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/Anand2252024/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
