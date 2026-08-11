@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Anand2252024/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
@@ -422,6 +423,7 @@ Happy Coding! 🚀
 | [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Anand2252024/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/Anand2252024/Leetcode/tree/master/0343-integer-break) |
@@ -765,6 +767,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/Anand2252024/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Anand2252024/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anand2252024/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Anand2252024/Leetcode/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Anand2252024/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1033,4 +1036,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anand2252024/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Anand2252024/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
