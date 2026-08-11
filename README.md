@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0223-rectangle-area](https://github.com/Anand2252024/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anand2252024/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
@@ -404,6 +405,7 @@ Happy Coding! 🚀
 | [0174-dungeon-game](https://github.com/Anand2252024/Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anand2252024/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anand2252024/Leetcode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -586,6 +588,7 @@ Happy Coding! 🚀
 | [0060-permutation-sequence](https://github.com/Anand2252024/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Anand2252024/Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Anand2252024/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
