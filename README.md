@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Anand2252024/Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Anand2252024/Leetcode/tree/master/0335-self-crossing) |
@@ -367,6 +368,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Anand2252024/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Anand2252024/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Anand2252024/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/Anand2252024/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -419,6 +421,7 @@ Happy Coding! 🚀
 | [0233-number-of-digit-one](https://github.com/Anand2252024/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anand2252024/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anand2252024/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/Anand2252024/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
