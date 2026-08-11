@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Anand2252024/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Anand2252024/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Anand2252024/Leetcode/tree/master/0326-power-of-three) |
@@ -843,6 +844,7 @@ Happy Coding! 🚀
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
@@ -963,10 +965,12 @@ Happy Coding! 🚀
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
@@ -987,6 +991,7 @@ Happy Coding! 🚀
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Anand2252024/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -1024,4 +1029,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Anand2252024/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Anand2252024/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
