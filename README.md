@@ -948,6 +948,7 @@ Happy Coding! 🚀
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
@@ -955,6 +956,7 @@ Happy Coding! 🚀
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Anand2252024/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anand2252024/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
