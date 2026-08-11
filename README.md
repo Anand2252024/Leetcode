@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0273-integer-to-english-words](https://github.com/Anand2252024/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Anand2252024/Leetcode/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Anand2252024/Leetcode/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/Anand2252024/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Anand2252024/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anand2252024/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anand2252024/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -371,6 +372,7 @@ Happy Coding! 🚀
 | [0327-count-of-range-sum](https://github.com/Anand2252024/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anand2252024/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Anand2252024/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/Anand2252024/Leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Anand2252024/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Anand2252024/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -910,6 +912,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Anand2252024/Leetcode/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/Anand2252024/Leetcode/tree/master/0335-self-crossing) |
 | [0973-k-closest-points-to-origin](https://github.com/Anand2252024/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
