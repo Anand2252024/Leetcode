@@ -949,11 +949,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anand2252024/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anand2252024/Leetcode/tree/master/1510-stone-game-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
