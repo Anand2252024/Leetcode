@@ -193,6 +193,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Anand2252024/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Anand2252024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anand2252024/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2252024/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anand2252024/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -293,6 +294,7 @@ Happy Coding! 🚀
 | [0318-maximum-product-of-word-lengths](https://github.com/Anand2252024/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Anand2252024/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anand2252024/Leetcode/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/Anand2252024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anand2252024/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
@@ -395,6 +397,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/Anand2252024/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Anand2252024/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Anand2252024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Anand2252024/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anand2252024/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Anand2252024/Leetcode/tree/master/1563-stone-game-v) |
@@ -515,6 +518,7 @@ Happy Coding! 🚀
 | [0316-remove-duplicate-letters](https://github.com/Anand2252024/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Anand2252024/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anand2252024/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Anand2252024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anand2252024/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anand2252024/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
