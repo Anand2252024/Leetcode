@@ -261,6 +261,7 @@ Happy Coding! 🚀
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anand2252024/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anand2252024/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anand2252024/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anand2252024/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -681,6 +682,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/Anand2252024/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Anand2252024/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anand2252024/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anand2252024/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -750,6 +752,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/Anand2252024/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anand2252024/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anand2252024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anand2252024/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
